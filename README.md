@@ -22,7 +22,8 @@ _Jawaban:_
     - Dengan i = 1, Output : ***** (5 bintang)
     - Dengan i = 0, Output : ****** (6 bintang)
 2.  Akibatnya   : Tidak ada bintang yang tercetak.
-
     Alasanya    : Kondisi i > N tidak pernah benar untuk nilai awal i = 1 dan N lebih besar darinya.
     Jadi, loop tidak dijalankan sama sekali.
+3.  Akibatnya   : Terjadi perulangan tak terbatas (infinite loop)
+    Alasannya   : Karena i-- membuat nilai i terus menurun, sehingga kondisi i <= N selalu benar dan loop tidak pernah selesai.
  
