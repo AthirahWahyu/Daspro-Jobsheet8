@@ -21,3 +21,8 @@ _Jawaban:_
     Contoh : Jika N = 5,
     - Dengan i = 1, Output : ***** (5 bintang)
     - Dengan i = 0, Output : ****** (6 bintang)
+2.  Akibatnya   : Tidak ada bintang yang tercetak.
+
+    Alasanya    : Kondisi i > N tidak pernah benar untuk nilai awal i = 1 dan N lebih besar darinya.
+    Jadi, loop tidak dijalankan sama sekali.
+ 
