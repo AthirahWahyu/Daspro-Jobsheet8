@@ -69,7 +69,7 @@ _Jawaban:_
 
 ## - Percobaan 3 : Verifikasi Hasil Percobaan 
 
-![Verifikasi2](./Verifikasi2.png)
+![Verifikasi3](./Verifikasi3.png)
 
 
 
