@@ -71,6 +71,22 @@ _Jawaban:_
 
 ![Verifikasi3](./Verifikasi3.png)
 
+_Pertanyaan:_
+
+1.  Perhatikan, apakah output yang dihasilkan dengan nilai N = 5 sesuai dengan tampilan berikut?
+
+![BintangSegitiga](./BintangSegitiga.png)
+
+2.  Jika tidak sesuai, bagian mana saja yang harus diperbaiki/ditambahkan? Jelaskan setiap bagian yang perlu diperbaiki/ditambahkan.
+3.  Silakan commit dan push ke repository Anda.
+
+_Jawaban:_
+
+1.  Tidak sesuai dan tidak menampilkan output seperti di gambar karena tidak ada perintah untuk
+    pindah baris baru (System.out.println();) setelah mencetak satu baris bintang. Selain itu, nilai awal dan batas kondisi while juga perlu diperbaiki supaya jumlah baris sesuai dengan nilai N.    
+
+
+
 
 
 
