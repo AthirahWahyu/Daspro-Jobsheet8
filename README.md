@@ -63,11 +63,13 @@ _Jawaban:_
     Jadi, perulangan luar = baris, dan perulangan dalam = kolom (isi baris).
 4.  - Fungsi System.out.println(); adalah untuk pindah ke baris baru setelah mencetak satu baris
     bintang selesai dicetak.
-    - Akibat Jika baris ini dihapus, maka semua bintang akan dicetak dalam satu baris panjang tanpa baris baru.
+    - Akibat jika baris ini dihapus, maka semua bintang akan dicetak dalam satu baris panjang tanpa baris baru.
 
+## - Percobaan 3 : Bintang Segitiga
 
+## - Percobaan 3 : Verifikasi Hasil Percobaan 
 
-
+![Verifikasi2](./Verifikasi2.png)
 
 
 
