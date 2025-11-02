@@ -83,7 +83,25 @@ _Pertanyaan:_
 _Jawaban:_
 
 1.  Tidak sesuai dan tidak menampilkan output seperti di gambar karena tidak ada perintah untuk
-    pindah baris baru (System.out.println();) setelah mencetak satu baris bintang. Selain itu, nilai awal dan batas kondisi while juga perlu diperbaiki supaya jumlah baris sesuai dengan nilai N.    
+    pindah baris baru (System.out.println();) setelah mencetak satu baris bintang. Selain itu, nilai awal dan batas kondisi while juga perlu diperbaiki supaya jumlah baris sesuai dengan nilai N.
+2.  1. Mengubah inisialisasi dan kondisi while luar
+    ```java 
+         int i = 1;
+        while (i <= N) 
+    ```
+
+    Alasan : Jika dimulai dari 0, maka baris pertama kosong karena j < i berarti j < 0 
+    (tidak ada yang dicetak).
+
+    1. Saat i = 1
+        - while (j < i) artinya while (j < 1)
+        - j = 0 memenuhi, maka satu bintang dicetak (*)
+    2. Menambahkan System.out.println(); setelah perulangan dalam agar setiap baris bintang dicetak di baris baru, bukan menumpuk di satu baris.
+
+
+
+
+    
 
 
 
