@@ -54,13 +54,17 @@ _Jawaban:_
     - Artinya perulangan berjalan 1 kali lebih banyak dibanding kalau dimulai dari 1.
 2.  Akibatnya   : Setiap baris menampilkan satu bintang lebih banyak.
     Alasannya   : Karena indeks perulangan i dimulai dari 0, sehingga perulangan berjalan N + 1 kali.
-3.  Perulangan luar
+3.  1. Perulangan luar
     - Fungsinya : Mengatur jumlah baris.
     - Analogi   : Berapa kali kita menggambar baris baru.
-    Perulangan dalam 
+    2. Perulangan dalam 
     - Fungsinya : Mengatur isi tiap baris.
     - Analogi   : Berapa banyak bintang di dalam baris tersebut. 
     Jadi, perulangan luar = baris, dan perulangan dalam = kolom (isi baris).
+4.  - Fungsi System.out.println(); adalah untuk pindah ke baris baru setelah mencetak satu baris
+    bintang selesai dicetak.
+    - Akibat Jika baris ini dihapus, maka semua bintang akan dicetak dalam satu baris panjang tanpa baris baru.
+
 
 
 
