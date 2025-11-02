@@ -52,6 +52,13 @@ _Jawaban:_
     Alasannya   :
     - Perulangan dimulai dari 0 dan berhenti ketika iOuter > N.
     - Artinya perulangan berjalan 1 kali lebih banyak dibanding kalau dimulai dari 1.
+2.  Akibatnya   : Setiap baris menampilkan satu bintang lebih banyak.
+    Alasannya   : Karena indeks perulangan i dimulai dari 0, sehingga perulangan berjalan N + 1 kali.
+
+
+
+
+
 
 
 
