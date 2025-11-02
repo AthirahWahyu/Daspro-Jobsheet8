@@ -54,6 +54,13 @@ _Jawaban:_
     - Artinya perulangan berjalan 1 kali lebih banyak dibanding kalau dimulai dari 1.
 2.  Akibatnya   : Setiap baris menampilkan satu bintang lebih banyak.
     Alasannya   : Karena indeks perulangan i dimulai dari 0, sehingga perulangan berjalan N + 1 kali.
+3.  Perulangan luar
+    - Fungsinya : Mengatur jumlah baris.
+    - Analogi   : Berapa kali kita menggambar baris baru.
+    Perulangan dalam 
+    - Fungsinya : Mengatur isi tiap baris.
+    - Analogi   : Berapa banyak bintang di dalam baris tersebut. 
+    Jadi, perulangan luar = baris, dan perulangan dalam = kolom (isi baris).
 
 
 
