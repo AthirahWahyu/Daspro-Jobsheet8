@@ -31,6 +31,16 @@ _Jawaban:_
 3.  Akibatnya   : Terjadi perulangan tak terbatas (infinite loop).
     Alasannya   : Karena i-- membuat nilai i terus menurun, sehingga kondisi i <= N selalu benar dan loop tidak pernah selesai.
 
+## - Percobaan 2 : Bintang Persegi
+
+## - Percobaan 2 : Verifikasi Hasil Percobaan
+
+![Verifikasi2](./Verifikasi2.png)
+
+
+
+
+
 
 
 
