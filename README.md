@@ -98,6 +98,12 @@ _Jawaban:_
         - j = 0 memenuhi, maka satu bintang dicetak (*)
     2. Menambahkan System.out.println(); setelah perulangan dalam agar setiap baris bintang dicetak di baris baru, bukan menumpuk di satu baris.
 
+## - Percobaan 4 : Studi Kasus Nilai Mahasiswa di SIAKAD
+
+## - Percobaan 3 : Verifikasi Hasil Percobaan 
+
+![Verifikasi4](./Verifikasi4.png)
+
 
 
 
