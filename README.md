@@ -100,7 +100,7 @@ _Jawaban:_
 
 ## - Percobaan 4 : Studi Kasus Nilai Mahasiswa di SIAKAD
 
-## - Percobaan 3 : Verifikasi Hasil Percobaan 
+## - Percobaan 4 : Verifikasi Hasil Percobaan 
 
 ![Verifikasi4](./Verifikasi4.png)
 
