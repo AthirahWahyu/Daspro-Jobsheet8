@@ -104,6 +104,20 @@ _Jawaban:_
 
 ![Verifikasi4](./Verifikasi4.png)
 
+# TUGAS 
+
+## - Tugas 1
+
+![Tugas13](./Tugas13.png)
+
+![Tugas15](./Tugas15.png)
+
+
+
+
+
+
+
 
 
 
