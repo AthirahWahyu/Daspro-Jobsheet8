@@ -112,6 +112,15 @@ _Jawaban:_
 
 ![Tugas15](./Tugas15.png)
 
+## - Tugas 2
+
+![Tugas21](./Tugas21.png)
+
+![Tugas22](./Tugas22.png)
+
+![Tugas23](./Tugas23.png)
+
+
 
 
 
